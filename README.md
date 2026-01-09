@@ -51,7 +51,7 @@ Constructed 6 core technical factors to feed the neural network:
 ## Quick Start
 
 ### Prerequisites
-* Python 3.8+
+* Python 3.1+
 * Tushare Token (Get one at [Tushare.pro](https://tushare.pro/))
 
 ### Installation
