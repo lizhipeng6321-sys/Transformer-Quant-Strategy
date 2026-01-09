@@ -1,6 +1,6 @@
 # Transformer-Based Quantitative Stock Selection Strategy
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.1%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -23,7 +23,7 @@ The strategy was backtested on unseen data, demonstrating strong predictive powe
 ![Backtest Result](backtest_result.png.jpg)
 *(Figure: Cumulative return comparison. Red: Transformer Strategy; Blue: Benchmark)*
 
-## 🛠 Technical Architecture
+##  Technical Architecture
 
 ### 1. Data Engineering (ETL)
 * **Source**: Tushare Pro API (Daily frequency).
